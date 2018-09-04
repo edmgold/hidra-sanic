@@ -1,0 +1,4 @@
+{
+    "python.linting.enabled": false,
+    "python.pythonPath": "/home/edmilson/.virtualenvs/python3-sanic/bin/python"
+}
